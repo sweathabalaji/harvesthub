@@ -35,4 +35,5 @@ A full-stack web application for bulk ordering vegetables and fruits. Buyers can
    ```bash
    git clone https://github.com/yourusername/bulk-order-app.git
    cd bulk-order-app
-# harvesthub
+# Demo video 
+https://drive.google.com/drive/folders/13SR2CK-06haAu-Tq_mM6y26nsOSHyl47?usp=drive_link
